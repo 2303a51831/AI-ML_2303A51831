@@ -14,4 +14,8 @@ https://github.com/2303a51831/AI-ML_2303A51831/blob/main/lab4AIML2.ipynb
 Lab 5
 https://github.com/2303a51831/AI-ML_2303A51831/blob/main/Untitled5.ipynb
 <br>
+Lab 7
+https://github.com/2303a51831/AI-ML_2303A51831/blob/main/Lab07.ipynb
+<br>
+
 
