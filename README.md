@@ -17,5 +17,8 @@ https://github.com/2303a51831/AI-ML_2303A51831/blob/main/Untitled5.ipynb
 Lab 7
 https://github.com/2303a51831/AI-ML_2303A51831/blob/main/Lab07.ipynb
 <br>
+Lab 8
+https://github.com/2303a51831/AI-ML_2303A51831/blob/main/LAB_08.ipynb
+<br>
 
 
