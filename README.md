@@ -20,5 +20,7 @@ https://github.com/2303a51831/AI-ML_2303A51831/blob/main/Lab07.ipynb
 Lab 8
 https://github.com/2303a51831/AI-ML_2303A51831/blob/main/LAB_08.ipynb
 <br>
-
+Lab 10
+https://github.com/2303a51831/AI-ML_2303A51831/blob/main/Lab10_KMeans.ipynb
+<br>
 
